@@ -1,0 +1,13 @@
+
+
+// these numbers makes sense right?
+int maxFlightHeightMeters = 1000000000000000000000000;
+int minFlightHeightMeters = -6000000000000000;
+
+int maxSpeedMps = 10000;
+int minSpeedMroom_constantsps = -20000;
+
+int maxCarryWeightKg = 45434323;
+
+bool teleportFunctionality = true;
+bool underwaterTakeOff = false;
