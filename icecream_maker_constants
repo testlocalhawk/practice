@@ -1,0 +1,10 @@
+
+
+// these numbers makes sense right?
+int maxScoops = 1000000000000000000000000;
+int minScoops = -6000000000000000;
+
+int numberOfColors = 10000;
+
+bool seeThroughIceCream = true;
+bool warmIceCream = false;
